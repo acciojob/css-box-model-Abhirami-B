@@ -4,9 +4,11 @@
 } 
 .box {
     margin: 20px;
+    
     border: 15px solid blue;
     padding:50px;
     background-color: lightblue;
     width: 300px;
+    text-align:justify;
 }
 /* Your CSS Code here. */
